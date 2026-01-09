@@ -1,0 +1,8 @@
+{
+  "name": "ical",
+  "short_description": "Syncs iCal (`.ics`) calendar feeds into your Roam graph",
+  "author": "avelino",
+  "source_url": "https://github.com/avelino/roamresearch-ical",
+  "source_repo": "https://github.com/avelino/roamresearch-ical.git",
+  "source_commit": "5172d36badb50a6c5122b2d6059bd0826ad72368"
+}
